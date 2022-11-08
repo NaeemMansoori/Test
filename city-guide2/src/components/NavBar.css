@@ -1,0 +1,29 @@
+.abc{
+    font-size: '20px';
+    position: 'fixed';
+    top: 0;
+    width: 100%;
+    background-color: black;
+    color: black;
+    font-size: medium;
+    
+}
+
+#hc{
+    float: left;
+}
+
+
+.nic{
+    height: 50px;
+    width:50px;
+    float :right;
+    margin:10px;
+    padding: 3px;
+}
+
+.nic:hover{
+    height:48px;
+    background-color: royalblue;
+    border-radius: 5px;
+}

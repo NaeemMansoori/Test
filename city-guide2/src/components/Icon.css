@@ -1,0 +1,27 @@
+.iconflex{
+    margin-top: 22px;
+    /* padding: 10px; */
+    height:100%;
+    width:850px;
+    float: right;
+    margin-right: 0px;
+    /* border: 2px solid blue; */
+   
+}
+
+.rounded{
+
+    display: flex;
+    height: 70px;
+    width: 78px;
+    margin: 12px;
+    padding: 3px;
+    float: left;
+}
+
+
+
+.rounded:hover{
+    height: 68px;
+    background: rgb(207, 238, 218);;
+}

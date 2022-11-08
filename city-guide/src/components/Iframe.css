@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+ .map{
+    margin-top:100px;
+    height: 500px;
+    width: 600px;
+    margin-left: 10px;
+    padding-left: 0px;
+    float: left;
+    margin-right: 200px;
+} 
+
